@@ -1,0 +1,4 @@
+<h1>Devise Heirarchy Tester</h1>
+<p>When user properly logged in, button below reads "ACTIVE"</p>
+
+<p><%= link_to "NO ACCESS", root_path, class: "btn btn-lg btn-danger" %>
